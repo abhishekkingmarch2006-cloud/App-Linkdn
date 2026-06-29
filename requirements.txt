@@ -4,3 +4,4 @@ pandas
 matplotlib
 pmdarima
 statsmodels
+seaborn
